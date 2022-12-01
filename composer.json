@@ -3,7 +3,7 @@
   "description": "",
   "autoload": {
     "psr-4": {
-      "Freekattema\\WordpressThemeBuffer\\": "src/"
+      "Freekattema\\Wordpress\\ThemeBuffer\\": "src/"
     },
     "files": [
       "src/autoinit.php"

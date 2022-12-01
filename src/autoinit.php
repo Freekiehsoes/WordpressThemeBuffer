@@ -1,3 +1,3 @@
 <?php
 
-\Freekattema\WordpressThemeBuffer\Buffer::init();
+\Freekattema\Wordpress\ThemeBuffer\Buffer::init();

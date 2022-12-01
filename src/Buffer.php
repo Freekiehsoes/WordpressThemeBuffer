@@ -1,6 +1,6 @@
 <?php
 
-namespace Freekattema\WordpressThemeBuffer;
+namespace Freekattema\Wordpress\ThemeBuffer;
 
 final class Buffer {
 	/** @var Buffer|null  */
