@@ -1,0 +1,23 @@
+{
+  "name": "freekattema/wordpress-theme-buffer",
+  "description": "",
+  "autoload": {
+    "psr-4": {
+      "Freekattema\\WordpressThemeBuffer\\": "src/"
+    },
+    "files": [
+      "src/autoinit.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "freekattema",
+      "email": "freekattema@live.nl"
+    }
+  ],
+  "require": {
+    "php": ">=7.3"
+  },
+  "minimum-stability": "dev",
+  "license": "proprietary"
+}
